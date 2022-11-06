@@ -1,2 +1,2 @@
-# blog-page-bootstrap
-This is a basic blog page that develop with bootstrap
+
+* Live Demo: [Page](https://keskinevren.github.io/blog-page-bootstrap/index.html)
